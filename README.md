@@ -16,6 +16,11 @@ This repository contains a collection of SVG and other art assets for use in Sta
 
 ![All Numerical Dice](dice/all-numerical-dice.png)
 
+### Numeric Dice come in Arabic or Aurabesh Numerals
+
+![ROTJ Aurabesh](dice/sw-rotj-aurabesh.png)
+![TLJ Arabic](dice/sw-tlj-arabic.png)
+
 ## Installation
 
 ```bash
@@ -66,6 +71,8 @@ These art assets are available under a dual-license model:
    - Available for commercial use
    - Requires a separate license agreement
    - Contact information available in [CONTACT.md](CONTACT.md)
+
+I'm open to other licensing models, feel free to open an issue to discuss. The goal is to recoup design costs while still providing to the open source and swrpg communities.
 
 ## Usage Guidelines
 
