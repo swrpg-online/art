@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><path fill-rule="evenodd" clip-rule="evenodd" d="M32.0123 69.3008C30.7316 68.8238 29.2903 69.3155 28.5774 70.484C27.8359 71.6991 28.106 73.2753 29.2 74.1841C53.7341 94.5657 75.1352 119.588 91.9995 148.874C108.87 178.17 119.785 209.276 125.121 240.78C125.357 242.173 126.557 243.2 127.967 243.2C129.377 243.2 130.577 242.173 130.813 240.78C136.149 209.274 147.064 178.17 163.934 148.874C180.817 119.555 202.248 94.5094 226.816 74.1156C227.87 73.2405 228.15 71.732 227.469 70.5421C226.785 69.3479 225.337 68.8313 224.049 69.3107C194.152 80.4435 161.807 86.5268 128.044 86.5268C94.2717 86.5268 61.9171 80.44 32.0123 69.3008Z" fill="white"/>
+</svg>

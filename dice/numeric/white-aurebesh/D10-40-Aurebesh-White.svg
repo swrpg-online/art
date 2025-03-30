@@ -1,0 +1,74 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><g clip-path="url(#clip0_112_2321)">
+<mask id="mask0_112_2321" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="14" width="257" height="227">
+<path d="M110.378 235.925C121.122 242.653 134.766 242.653 145.51 235.925L236.465 178.967C240.042 176.727 243.005 173.634 245.09 169.966C259.672 144.301 259.619 112.765 245.037 87.1008C242.99 83.498 240.09 80.4356 236.6 78.2014L145.79 20.0606C134.912 13.0962 120.976 13.0962 110.098 20.0606L19.2874 78.2014C15.7977 80.4356 12.8974 83.498 10.8504 87.1008C-3.73157 112.765 -3.78373 144.301 10.7983 169.966C12.8828 173.634 15.8463 176.727 19.4225 178.967L110.378 235.925Z" fill="#D1D1D1"/>
+</mask>
+<g mask="url(#mask0_112_2321)">
+<rect width="256" height="256" fill="#F1F1F1"/>
+<g style="mix-blend-mode:multiply">
+<g filter="url(#filter0_f_112_2321)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M264.334 9.53796H-8.9801V246.553H264.334V9.53796ZM95.3794 68.5378L95.3801 68.5361C102.709 51.0433 113.835 24.4848 126.609 24.4848C139.383 24.4848 150.51 51.0433 157.839 68.5361C158.929 71.1396 159.936 73.5423 160.851 75.6267C161.399 76.8746 162.016 78.2607 162.687 79.7697C170.672 97.7185 186.397 133.064 186.397 160.097C186.397 189.403 155.96 212.388 126.609 212.388C97.2591 212.388 66.8218 189.403 66.8218 160.097C66.8218 133.064 82.5463 97.7185 90.5314 79.7697L90.5314 79.7696C91.2028 78.2606 91.8194 76.8745 92.3674 75.6267C93.2826 73.5428 94.2889 71.1407 95.3794 68.5378Z" fill="#D8D6D6"/>
+</g>
+<g filter="url(#filter1_f_112_2321)">
+<path d="M162.456 209.278C140.5 221.501 113.786 221.501 91.8304 209.278L75.3629 200.111C70.2027 197.441 57.3199 190.929 47.0706 186.231C43.3894 184.544 39.4437 182.989 35.5123 181.44C25.7611 177.597 16.0971 173.788 10.7711 168.082C4.79234 161.676 2.23002 155.092 1.6962 152.601H-3.64197V256.695H257.928V152.601H252.59C252.056 155.092 249.494 161.676 243.515 168.082C238.189 173.788 228.525 177.597 218.774 181.44C214.842 182.989 210.897 184.544 207.216 186.231C196.966 190.929 184.084 197.441 178.923 200.111L162.456 209.278Z" fill="#595959"/>
+</g>
+<g filter="url(#filter2_f_112_2321)">
+<path d="M179.437 105.141C169.728 84.5729 145.996 32.6107 151.39 26.6567C154.626 22.8678 168.11 29.3631 184.291 38.0234C200.473 46.6838 233.374 69.9585 244.162 80.784C254.949 91.6095 261.422 112.719 260.343 131.664C259.264 150.608 248.477 177.131 227.981 171.177C207.484 165.223 189.146 125.71 179.437 105.141Z" fill="#B9B9B9"/>
+</g>
+<g filter="url(#filter3_f_112_2321)">
+<path d="M74.8491 105.141C84.5578 84.5729 108.29 32.6107 102.896 26.6567C99.6602 22.8678 86.176 29.3631 69.9948 38.0234C53.8136 46.6838 20.9119 69.9585 10.1245 80.784C-0.662979 91.6095 -7.13544 112.719 -6.0567 131.664C-4.97796 150.608 5.80949 177.131 26.3056 171.177C46.8018 165.223 65.1404 125.71 74.8491 105.141Z" fill="#C7C7C7"/>
+</g>
+</g>
+</g>
+<path d="M132.793 169C131.206 169 129.92 167.711 129.92 166.122V122.918C129.92 121.329 131.206 120.04 132.793 120.04H173.127C174.714 120.04 176 121.329 176 122.918V166.122C176 167.711 174.714 169 173.127 169H132.793ZM143.226 131.231C142.432 131.231 141.789 131.875 141.789 132.67V156.37C141.789 157.165 142.432 157.809 143.226 157.809H162.694C163.488 157.809 164.131 157.165 164.131 156.37V132.67C164.131 131.875 163.488 131.231 162.694 131.231H143.226ZM147.375 140.364C147.375 139.569 148.018 138.925 148.811 138.925H157.109C157.902 138.925 158.546 139.569 158.546 140.364V148.676C158.546 149.471 157.902 150.115 157.109 150.115H148.811C148.018 150.115 147.375 149.471 147.375 148.676V140.364Z" fill="black"/>
+<path d="M123.322 119.579C124.912 119.579 126.2 120.868 126.2 122.458V165.661C126.2 167.251 124.912 168.539 123.322 168.539H117.189C115.599 168.539 114.31 167.251 114.31 165.661V151.094C114.31 150.299 113.666 149.655 112.871 149.655H82.9165C81.3269 149.655 80.0382 148.366 80.0382 146.776V122.458C80.0382 120.868 81.3269 119.579 82.9165 119.579H89.0502C90.6398 119.579 91.9285 120.868 91.9285 122.458V137.025C91.9285 137.819 92.5728 138.464 93.3676 138.464H112.871C113.666 138.464 114.31 137.819 114.31 137.025V122.458C114.31 120.868 115.599 119.579 117.189 119.579H123.322Z" fill="black"/>
+<g filter="url(#filter4_f_112_2321)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M93.2446 69.5637L93.2449 69.5629C100.574 52.5103 111.7 26.6201 124.474 26.6201C126.14 26.6201 127.778 27.0605 129.383 27.8643C117.238 29.8124 106.692 54.9551 99.6508 71.7404C98.56 74.3406 97.5534 76.7403 96.638 78.8222C96.0901 80.0684 95.4735 81.4527 94.8022 82.9598L94.802 82.96C86.817 100.886 71.0925 136.188 71.0925 163.188C71.0925 176.477 77.3674 188.466 86.9664 197.594C73.8486 188.313 64.6866 174.494 64.6866 158.82C64.6866 132.467 80.4111 98.0108 88.3962 80.5138L88.3969 80.5123C89.068 79.0418 89.6844 77.6911 90.2322 76.475C91.1475 74.4433 92.154 72.1013 93.2446 69.5637Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_112_2321" x="-18.9801" y="-0.462036" width="293.314" height="257.015" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_2321"/>
+</filter>
+<filter id="filter1_f_112_2321" x="-13.642" y="142.601" width="281.57" height="124.094" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_2321"/>
+</filter>
+<filter id="filter2_f_112_2321" x="140.602" y="15.5525" width="129.857" height="166.477" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_2321"/>
+</filter>
+<filter id="filter3_f_112_2321" x="-16.1735" y="15.5525" width="129.857" height="166.477" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_2321"/>
+</filter>
+<filter id="filter4_f_112_2321" x="60.6866" y="22.6201" width="72.6968" height="178.974" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_112_2321"/>
+</filter>
+<clipPath id="clip0_112_2321">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>

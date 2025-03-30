@@ -1,0 +1,36 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><mask id="mask0_112_8585" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="17" width="252" height="223">
+<path d="M111.095 26.5C118.408 13.8333 136.691 13.8333 144.004 26.5L250.525 211C257.838 223.667 248.697 239.5 234.071 239.5H21.0283C6.40214 239.5 -2.73924 223.667 4.57386 211L111.095 26.5Z" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_112_8585)">
+<rect width="256" height="256" fill="#D09D5F"/>
+<g style="mix-blend-mode:multiply" filter="url(#filter0_f_112_8585)">
+<path d="M279.337 102.182C279.369 87.9554 263.989 61.315 251.652 54.2296L126.366 -17.7263C114.029 -24.8118 113.988 -7.02829 126.293 14.284L251.252 230.719C263.556 252.031 278.977 260.888 279.01 246.661L279.337 102.182Z" fill="black" fill-opacity="0.25"/>
+<path d="M100.333 317.894C112.425 324.88 142.655 324.88 154.747 317.894L277.547 246.95C289.639 239.964 274.524 231.232 250.339 231.232L4.74033 231.232C-19.4438 231.232 -34.5589 239.964 -22.4668 246.95L100.333 317.894Z" fill="black" fill-opacity="0.5"/>
+<path d="M-26.4366 101.791C-26.4405 87.3472 -10.8069 60.2689 1.704 53.0503L128.757 -20.2571C141.268 -27.4757 141.273 -9.42063 128.766 12.242L1.75356 232.235C-10.7533 253.897 -26.392 262.92 -26.396 248.476L-26.4366 101.791Z" fill="black" fill-opacity="0.35"/>
+</g>
+</g>
+<path d="M164.296 180.826C166.814 180.826 168.856 182.867 168.856 185.386V193.995C168.856 196.513 166.814 198.555 164.296 198.555H100.283C97.7642 198.555 95.7227 196.513 95.7227 193.995V185.386C95.7227 182.867 97.7642 180.826 100.283 180.826H122.871V138.719H100.283C97.7642 138.719 95.7227 136.677 95.7227 134.159V125.549C95.7227 123.031 97.7642 120.989 100.283 120.989H137.148C139.666 120.989 141.708 123.031 141.708 125.549V180.826H164.296Z" fill="black"/>
+<defs>
+<filter id="filter0_f_112_8585" x="-46.7227" y="-41.8731" width="348.525" height="385.006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_112_8585"/>
+</filter>
+</defs>
+</svg>

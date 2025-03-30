@@ -1,0 +1,80 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><g id="D6-Boost-Advantage-Advantage">
+<g id="Group 5">
+<mask id="mask0_5_2395" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
+<path id="BG" d="M28 52C28 38.7452 38.7452 28 52 28H128H204C217.255 28 228 38.7452 228 52V128V204C228 217.255 217.255 228 204 228H128H52C38.7452 228 28 217.255 28 204V128V52Z" fill="#7EBCD8"/>
+</mask>
+<g mask="url(#mask0_5_2395)">
+<g id="Dice Color">
+<g id="Color Component">
+<rect width="256" height="256" fill="#7EBCD8"/>
+</g>
+</g>
+<g id="Shine" style="mix-blend-mode:plus-lighter">
+<rect x="28" y="28" width="200" height="200" fill="url(#paint0_linear_5_2395)"/>
+</g>
+<g id="Subtract" filter="url(#filter0_f_5_2395)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M239 17H17V239H239V17ZM128 228.909C183.731 228.909 228.909 183.731 228.909 128C228.909 72.2694 183.731 27.0909 128 27.0909C72.2694 27.0909 27.0909 72.2694 27.0909 128C27.0909 183.731 72.2694 228.909 128 228.909Z" fill="url(#paint1_angular_5_2395)"/>
+</g>
+</g>
+<g id="Symbol B">
+<g id="Symbol">
+<path d="M150.766 156.502C151.007 156.744 151.032 157.128 150.822 157.398C147.639 161.5 146.561 164.943 146.561 168.735C146.561 177.603 154.574 184.636 162.261 187.475C162.797 187.673 163.385 187.673 163.921 187.475C171.608 184.636 179.621 177.603 179.621 168.735C179.621 164.943 178.542 161.5 175.359 157.398C175.15 157.128 175.175 156.744 175.416 156.502C179.447 152.448 184.521 143.83 177.604 136.932C177.121 136.451 177.5 135.621 178.153 135.822C187.358 138.646 196.93 150.167 187.26 165.516C187.112 165.751 187.293 166.052 187.565 165.989C189.5 165.54 192.826 163.962 195.532 160.225C195.922 159.685 196.766 159.918 196.686 160.577C196.055 165.761 192.652 173.729 182.338 177.038C182.061 177.127 182.019 177.495 182.284 177.616C183.853 178.33 186.64 179.161 189.668 178.886C190.288 178.829 190.736 179.546 190.32 180.005C184.412 186.535 173.751 190.391 163.091 190.391C152.43 190.391 141.77 186.535 135.861 180.005C135.446 179.546 135.894 178.829 136.513 178.886C139.542 179.161 142.329 178.33 143.898 177.616C144.163 177.495 144.121 177.127 143.844 177.038C133.53 173.729 130.126 165.761 129.496 160.577C129.416 159.918 130.26 159.685 130.65 160.225C133.355 163.962 136.682 165.54 138.616 165.989C138.888 166.052 139.07 165.751 138.922 165.516C129.251 150.167 138.824 138.646 148.029 135.822C148.682 135.621 149.06 136.451 148.578 136.932C141.661 143.83 146.735 152.448 150.766 156.502Z" fill="black"/>
+<path d="M163.091 153.642C166.74 153.642 169.698 150.704 169.698 147.08C169.698 143.456 166.74 140.517 163.091 140.517C159.442 140.517 156.484 143.456 156.484 147.08C156.484 150.704 159.442 153.642 163.091 153.642Z" fill="black"/>
+</g>
+</g>
+<g id="Symbol A">
+<g id="Symbol_2">
+<path d="M80.6748 86.411C80.9159 86.6535 80.9411 87.0369 80.7316 87.3069C77.5484 91.4091 76.4699 94.8523 76.4699 98.6444C76.4699 107.512 84.4827 114.545 92.1697 117.384C92.7057 117.582 93.2943 117.582 93.8303 117.384C101.517 114.545 109.53 107.512 109.53 98.6444C109.53 94.8523 108.452 91.4091 105.268 87.3069C105.059 87.0369 105.084 86.6535 105.325 86.411C109.356 82.357 114.43 73.7388 107.513 66.8414C107.031 66.3605 107.409 65.5302 108.062 65.7306C117.267 68.5549 126.84 80.0761 117.169 95.425C117.021 95.6602 117.203 95.9614 117.475 95.8983C119.409 95.4492 122.736 93.871 125.441 90.1337C125.831 89.5945 126.675 89.8269 126.595 90.4861C125.965 95.6699 122.561 103.638 112.247 106.948C111.97 107.037 111.928 107.404 112.193 107.525C113.762 108.239 116.549 109.071 119.577 108.795C120.197 108.738 120.645 109.455 120.229 109.914C114.321 116.444 103.66 120.3 93 120.3C82.3396 120.3 71.6792 116.444 65.7706 109.914C65.3548 109.455 65.8031 108.738 66.4226 108.795C69.4509 109.071 72.2377 108.239 73.8071 107.525C74.0721 107.404 74.0303 107.037 73.7529 106.948C63.4387 103.638 60.0355 95.6699 59.4054 90.4861C59.3252 89.8269 60.1689 89.5945 60.5592 90.1337C63.2644 93.871 66.5909 95.4492 68.5254 95.8983C68.7974 95.9614 68.9791 95.6602 68.8309 95.425C59.1605 80.0761 68.7331 68.5549 77.9381 65.7306C78.5911 65.5302 78.9694 66.3605 78.4871 66.8414C71.57 73.7388 76.644 82.357 80.6748 86.411Z" fill="black"/>
+<path d="M93 83.5511C96.6491 83.5511 99.6073 80.6131 99.6073 76.9888C99.6073 73.3646 96.6491 70.4265 93 70.4265C89.3509 70.4265 86.3928 73.3646 86.3928 76.9888C86.3928 80.6131 89.3509 83.5511 93 83.5511Z" fill="black"/>
+</g>
+</g>
+<g id="Shine_2" filter="url(#filter1_f_5_2395)">
+<path d="M54.6822 87.8174C46.6259 95.7643 46.0504 129.917 46.7697 146C42.2358 116.37 41.274 83.6569 59.7175 64.5191C77.813 45.7423 110.789 41.6971 141 47.3734C123.017 46.6638 96.4024 50.2116 86.332 57.307C76.2616 64.4024 64.7526 77.8838 54.6822 87.8174Z" fill="url(#paint2_radial_5_2395)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5_2395" x="1.31818" y="1.31818" width="253.364" height="253.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.84091" result="effect1_foregroundBlur_5_2395"/>
+</filter>
+<filter id="filter1_f_5_2395" x="38.3182" y="39.3182" width="108.364" height="112.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.84091" result="effect1_foregroundBlur_5_2395"/>
+</filter>
+<linearGradient id="paint0_linear_5_2395" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.655" stop-color="white" stop-opacity="0.05"/>
+</linearGradient>
+<radialGradient id="paint1_angular_5_2395" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(45) scale(141.588)">
+<stop stop-opacity="0.5"/>
+<stop offset="0.253046" stop-opacity="0.35"/>
+<stop offset="0.502899" stop-opacity="0.15"/>
+<stop offset="0.753407" stop-opacity="0.25"/>
+<stop offset="1" stop-opacity="0.5"/>
+</radialGradient>
+<radialGradient id="paint2_radial_5_2395" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(66.2988 67.2406) scale(67.6157 63.1855)">
+<stop offset="0.29" stop-color="white"/>
+<stop offset="0.415" stop-color="white" stop-opacity="0.5"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

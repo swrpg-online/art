@@ -1,0 +1,73 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><g clip-path="url(#clip0_112_31424)">
+<mask id="mask0_112_31424" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="14" width="257" height="227">
+<path d="M110.378 235.925C121.122 242.653 134.765 242.653 145.51 235.925L236.465 178.966C240.041 176.727 243.005 173.634 245.089 169.965C259.671 144.301 259.619 112.765 245.037 87.1004C242.99 83.4977 240.09 80.4353 236.6 78.201L145.789 20.0602C134.912 13.0958 120.976 13.0958 110.098 20.0602L19.2873 78.201C15.7976 80.4353 12.8973 83.4977 10.8503 87.1004C-3.7317 112.765 -3.78385 144.301 10.7982 169.965C12.8826 173.634 15.8462 176.727 19.4224 178.966L110.378 235.925Z" fill="#D1D1D1"/>
+</mask>
+<g mask="url(#mask0_112_31424)">
+<rect width="256" height="256" fill="#272727"/>
+<g style="mix-blend-mode:multiply">
+<g filter="url(#filter0_f_112_31424)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M264.334 9.53711H-8.98047V246.552H264.334V9.53711ZM95.379 68.537L95.3797 68.5353C102.708 51.0425 113.835 24.484 126.609 24.484C139.383 24.484 150.51 51.0425 157.838 68.5353C158.929 71.1388 159.935 73.5415 160.851 75.6259C161.399 76.8737 162.015 78.2598 162.687 79.7689C170.672 97.7177 186.396 133.063 186.396 160.096C186.396 189.402 155.959 212.387 126.609 212.387C97.2587 212.387 66.8215 189.402 66.8215 160.096C66.8215 133.063 82.546 97.7177 90.531 79.7689L90.5311 79.7688C91.2024 78.2597 91.819 76.8737 92.367 75.6259C93.2822 73.5419 94.2886 71.1398 95.379 68.537Z" fill="#D8D6D6"/>
+</g>
+<g filter="url(#filter1_f_112_31424)">
+<path d="M162.455 209.277C140.5 221.499 113.785 221.499 91.8298 209.277L75.3623 200.109C70.2021 197.44 57.3193 190.928 47.07 186.23C43.3888 184.543 39.4431 182.988 35.5116 181.438C25.7605 177.595 16.0965 173.787 10.7705 168.08C4.79173 161.674 2.22941 155.091 1.69559 152.6H-3.64258V256.694H257.928V152.6H252.589C252.056 155.091 249.493 161.674 243.515 168.08C238.188 173.787 228.525 177.595 218.773 181.438C214.842 182.988 210.896 184.543 207.215 186.23C196.966 190.928 184.083 197.44 178.923 200.109L162.455 209.277Z" fill="#595959"/>
+</g>
+<g filter="url(#filter2_f_112_31424)">
+<path d="M179.437 105.141C169.728 84.5722 145.996 32.61 151.39 26.656C154.626 22.867 168.11 29.3623 184.291 38.0227C200.472 46.6831 233.374 69.9578 244.162 80.7833C254.949 91.6087 261.421 112.718 260.343 131.663C259.264 150.607 248.477 177.13 227.98 171.176C207.484 165.222 189.146 125.709 179.437 105.141Z" fill="#B9B9B9"/>
+</g>
+<g filter="url(#filter3_f_112_31424)">
+<path d="M74.8488 105.141C84.5575 84.5722 108.29 32.61 102.896 26.656C99.6599 22.867 86.1756 29.3623 69.9944 38.0227C53.8133 46.6831 20.9115 69.9578 10.1241 80.7833C-0.663345 91.6087 -7.13581 112.718 -6.05707 131.663C-4.97832 150.607 5.80912 177.13 26.3053 171.176C46.8014 165.222 65.1401 125.709 74.8488 105.141Z" fill="#C7C7C7"/>
+</g>
+</g>
+</g>
+<path d="M123.551 186.935V116.551H117.229L116.808 110.966L126.923 102.643H139.988V186.935H123.551Z" fill="white"/>
+<g filter="url(#filter4_f_112_31424)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M93.2445 69.5637L93.2448 69.5629C100.573 52.5103 111.7 26.6201 124.474 26.6201C126.14 26.6201 127.778 27.0605 129.383 27.8643C117.238 29.8124 106.692 54.9551 99.6506 71.7404C98.5599 74.3406 97.5533 76.7403 96.6379 78.8222C96.09 80.0684 95.4733 81.4527 94.802 82.9598L94.8019 82.96C86.8169 100.886 71.0924 136.188 71.0924 163.188C71.0924 176.477 77.3673 188.466 86.9663 197.594C73.8485 188.313 64.6865 174.494 64.6865 158.82C64.6865 132.467 80.411 98.0108 88.3961 80.5138L88.3968 80.5123C89.0679 79.0418 89.6843 77.6911 90.2321 76.475C91.1474 74.4433 92.1539 72.1013 93.2445 69.5637Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_112_31424" x="-18.9805" y="-0.462891" width="293.314" height="257.015" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_31424"/>
+</filter>
+<filter id="filter1_f_112_31424" x="-13.6426" y="142.6" width="281.57" height="124.095" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_31424"/>
+</filter>
+<filter id="filter2_f_112_31424" x="140.602" y="15.5518" width="129.857" height="166.477" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_31424"/>
+</filter>
+<filter id="filter3_f_112_31424" x="-16.1738" y="15.5518" width="129.857" height="166.477" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_112_31424"/>
+</filter>
+<filter id="filter4_f_112_31424" x="60.6865" y="22.6201" width="72.6968" height="178.975" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_112_31424"/>
+</filter>
+<clipPath id="clip0_112_31424">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>

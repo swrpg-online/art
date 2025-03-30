@@ -1,0 +1,36 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><mask id="mask0_112_28509" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="17" width="252" height="223">
+<path d="M111.095 26.5C118.408 13.8333 136.691 13.8333 144.004 26.5L250.525 211C257.838 223.667 248.697 239.5 234.071 239.5H21.0283C6.40214 239.5 -2.73924 223.667 4.57386 211L111.095 26.5Z" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_112_28509)">
+<rect width="256" height="256" fill="#06A2FD"/>
+<g style="mix-blend-mode:multiply" filter="url(#filter0_f_112_28509)">
+<path d="M279.337 102.182C279.369 87.9555 263.989 61.3151 251.652 54.2297L126.366 -17.7262C114.029 -24.8117 113.988 -7.0282 126.293 14.2841L251.252 230.719C263.556 252.031 278.977 260.888 279.01 246.661L279.337 102.182Z" fill="black" fill-opacity="0.25"/>
+<path d="M100.333 317.894C112.425 324.88 142.655 324.88 154.747 317.894L277.547 246.95C289.639 239.964 274.524 231.232 250.339 231.232L4.74033 231.232C-19.4438 231.232 -34.5589 239.964 -22.4668 246.95L100.333 317.894Z" fill="black" fill-opacity="0.5"/>
+<path d="M-26.4366 101.791C-26.4405 87.3473 -10.8069 60.269 1.704 53.0504L128.757 -20.257C141.268 -27.4756 141.273 -9.42054 128.766 12.2421L1.75356 232.235C-10.7533 253.897 -26.392 262.921 -26.396 248.476L-26.4366 101.791Z" fill="black" fill-opacity="0.35"/>
+</g>
+</g>
+<path d="M127.138 211.119C117.128 211.119 109.892 209.18 105.429 205.301C100.966 201.422 98.6097 194.979 98.3595 185.97C98.3178 184.468 98.2761 183.321 98.2344 182.529C98.2344 181.736 98.2344 180.944 98.2344 180.152C98.2761 179.359 98.3178 178.212 98.3595 176.711H117.503V188.472C117.503 190.85 118.296 192.685 119.88 193.978C121.465 195.229 123.718 195.854 126.637 195.854C129.64 195.854 131.892 195.229 133.394 193.978C134.937 192.685 135.729 190.891 135.771 188.597C135.854 185.845 135.896 183.405 135.896 181.278C135.938 179.151 135.896 177.128 135.771 175.209C135.646 172.957 134.916 170.955 133.581 169.203C132.288 167.452 129.723 166.618 125.886 166.701L113.249 166.826L112.749 151.061L132.142 126.287H99.7358V109.771H154.039L153.789 125.786L133.644 150.56C140.526 151.102 145.676 153.313 149.096 157.192C152.558 161.071 154.498 167.243 154.915 175.71C154.956 176.586 154.977 177.42 154.977 178.212C155.019 178.963 155.04 179.714 155.04 180.464C155.04 181.215 155.04 182.049 155.04 182.967C155.04 183.843 154.998 184.844 154.915 185.97C154.539 194.979 152.183 201.422 147.845 205.301C143.549 209.18 136.647 211.119 127.138 211.119Z" fill="black"/>
+<defs>
+<filter id="filter0_f_112_28509" x="-46.7227" y="-41.873" width="348.523" height="385.006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_112_28509"/>
+</filter>
+</defs>
+</svg>

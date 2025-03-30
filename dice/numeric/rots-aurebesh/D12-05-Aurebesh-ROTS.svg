@@ -1,0 +1,71 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><mask id="mask0_112_11464" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="6" y="2" width="244" height="252">
+<path d="M114.628 4.34533C123.32 1.52112 132.683 1.52111 141.375 4.34533L189.67 20.0373C198.362 22.8615 205.937 28.365 211.309 35.7589L241.157 76.841C246.529 84.2349 249.422 93.1397 249.422 102.279V153.059C249.422 162.199 246.529 171.103 241.157 178.497L211.309 219.58C205.937 226.973 198.362 232.477 189.67 235.301L141.375 250.993C132.683 253.817 123.32 253.817 114.628 250.993L66.3327 235.301C57.6407 232.477 50.0658 226.973 44.6938 219.58L14.8459 178.497C9.47394 171.103 6.5806 162.199 6.5806 153.059V102.279C6.5806 93.1397 9.47393 84.2349 14.8459 76.841L44.6938 35.7589C50.0658 28.365 57.6407 22.8615 66.3327 20.0373L114.628 4.34533Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_112_11464)">
+<rect width="256" height="256" fill="#FF5502"/>
+<g filter="url(#filter0_f_112_11464)">
+<path d="M50.1016 9.81476L135.447 -6.13379V48.8249H121.261V9.81476L52.8064 23.0787L50.1016 9.81476Z" fill="url(#paint0_linear_112_11464)" fill-opacity="0.15"/>
+<rect x="169.172" y="196.272" width="14.1855" height="78.0203" transform="rotate(-36 169.172 196.272)" fill="url(#paint1_linear_112_11464)" fill-opacity="0.3"/>
+<path d="M-5.07812 91.241L43.0683 14.9641L61.4613 21.4558L18.1181 84.7521L55.219 96.8069L50.8355 110.298L-5.07812 91.241Z" fill="url(#paint2_linear_112_11464)" fill-opacity="0.25"/>
+<rect x="205.871" y="110.298" width="14.1855" height="78.0203" transform="rotate(-108 205.871 110.298)" fill="url(#paint3_linear_112_11464)" fill-opacity="0.25"/>
+<rect x="41.6797" y="259.392" width="14.1855" height="78.0203" transform="rotate(-144 41.6797 259.392)" fill="url(#paint4_linear_112_11464)" fill-opacity="0.25"/>
+<path d="M173.313 205.927L209.147 252.45L126.501 268.5L46.8555 252.451L82.6888 205.927L173.313 205.927Z" fill="black" fill-opacity="0.35"/>
+<path d="M216.112 108.421L272.062 88.5818L261.002 175L221.457 244.329L187.853 195.392L216.112 108.421Z" fill="black" fill-opacity="0.4"/>
+<path d="M136.735 38.0622L135.156 -21.2809L210.716 14L267.643 74.9762L210.716 91.8128L136.735 38.0622Z" fill="black" fill-opacity="0.2"/>
+<path d="M45.2894 91.813L-11.6371 74.9764L45.2894 15.0001L120.849 -21.2808L119.271 38.0623L45.2894 91.813Z" fill="black" fill-opacity="0.1"/>
+<path d="M68.1506 195.392L34.5469 244.329L-3.99854 172.5L-16.0586 88.5818L39.8922 108.421L68.1506 195.392Z" fill="black" fill-opacity="0.25"/>
+</g>
+</g>
+<path d="M164.157 168.995C164.157 171.513 162.115 173.555 159.597 173.555H95.5834C93.065 173.555 91.0234 171.513 91.0234 168.995V160.386C91.0234 157.867 93.065 155.826 95.5834 155.826H143.039C144.299 155.826 145.319 154.805 145.319 153.546V145.917C145.319 144.658 144.299 143.637 143.039 143.637H95.5834C93.065 143.637 91.0234 141.595 91.0234 139.077V130.467C91.0234 127.949 93.065 125.907 95.5834 125.907H159.597C162.115 125.907 164.157 127.949 164.157 130.467V168.995ZM95.5834 113.719C93.065 113.719 91.0234 111.677 91.0234 109.159V100.549C91.0234 98.0308 93.065 95.9893 95.5834 95.9893H159.597C162.115 95.9893 164.157 98.0308 164.157 100.549V109.159C164.157 111.677 162.115 113.719 159.597 113.719H95.5834Z" fill="white"/>
+<g filter="url(#filter1_f_112_11464)">
+<path d="M62.4943 99.4783C57.4854 104.467 54.5592 109.682 58.5102 120.453C52.2491 110.816 53.9564 100.612 58.5099 95.51C66.6026 86.4423 90.9535 68.8657 103.475 61.4961C113.493 55.6003 126.243 46.7567 139.903 56.9609C124.535 51.2919 117.705 59.2285 110.875 63.1968C102.633 67.985 68.7553 93.2424 62.4943 99.4783Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_f_112_11464" x="-26.878" y="-32.1003" width="317.772" height="311.42" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5.40971" result="effect1_foregroundBlur_112_11464"/>
+</filter>
+<filter id="filter1_f_112_11464" x="49.02" y="46.8814" width="96.2921" height="78.9818" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.70486" result="effect1_foregroundBlur_112_11464"/>
+</filter>
+<linearGradient id="paint0_linear_112_11464" x1="128.354" y1="-29.1954" x2="128.354" y2="48.8249" gradientUnits="userSpaceOnUse">
+<stop offset="0.40004"/>
+<stop offset="0.770751" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_112_11464" x1="176.265" y1="196.272" x2="176.278" y2="252.046" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="0.44519"/>
+</linearGradient>
+<linearGradient id="paint2_linear_112_11464" x1="52.2438" y1="103.558" x2="6.82333" y2="87.4543" gradientUnits="userSpaceOnUse">
+<stop offset="0.487821" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint3_linear_112_11464" x1="216.762" y1="109.73" x2="217.403" y2="150.481" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint4_linear_112_11464" x1="48.7724" y1="337.413" x2="48.6801" y2="291.64" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="0.482933"/>
+</linearGradient>
+</defs>
+</svg>

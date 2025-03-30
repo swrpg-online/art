@@ -1,0 +1,61 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><mask id="mask0_112_20051" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
+<path d="M28 52C28 38.7452 38.7452 28 52 28H128H204C217.255 28 228 38.7452 228 52V128V204C228 217.255 217.255 228 204 228H128H52C38.7452 228 28 217.255 28 204V128V52Z" fill="#7EBCD8"/>
+</mask>
+<g mask="url(#mask0_112_20051)">
+<rect width="256" height="256" fill="#38D133"/>
+<g style="mix-blend-mode:plus-lighter">
+<rect x="28" y="28" width="200" height="200" fill="url(#paint0_linear_112_20051)"/>
+</g>
+<g filter="url(#filter0_f_112_20051)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M239 17H17V239H239V17ZM128 228.909C183.731 228.909 228.909 183.731 228.909 128C228.909 72.2694 183.731 27.0909 128 27.0909C72.2694 27.0909 27.0909 72.2694 27.0909 128C27.0909 183.731 72.2694 228.909 128 228.909Z" fill="url(#paint1_angular_112_20051)"/>
+</g>
+</g>
+<path d="M128.059 179.119C118.05 179.119 110.813 177.18 106.351 173.301C101.888 169.422 99.5315 162.979 99.2813 153.97C99.2396 151.509 99.2396 149.632 99.2813 148.339C99.323 147.046 99.3647 145.837 99.4064 144.711H118.55C118.425 145.753 118.321 147.088 118.237 148.715C118.196 150.3 118.175 151.843 118.175 153.344C118.175 154.804 118.216 155.847 118.3 156.472C118.55 158.85 119.447 160.685 120.99 161.978C122.575 163.229 124.764 163.854 127.559 163.854C130.562 163.854 132.793 163.229 134.253 161.978C135.713 160.685 136.526 158.85 136.693 156.472C137.068 152.01 137.277 148.193 137.318 145.024C137.402 141.854 137.277 138.83 136.943 135.952C136.693 133.617 135.9 131.886 134.566 130.76C133.231 129.634 131.187 129.071 128.435 129.071C126.558 129.071 124.91 129.321 123.492 129.821C122.074 130.322 120.969 131.052 120.177 132.011C119.384 132.97 118.967 134.117 118.925 135.452H100.908V77.7705H154.21V94.2866H119.926V120.812H122.804C124.014 118.811 125.891 117.101 128.435 115.682C131.021 114.264 134.023 113.555 137.443 113.555C143.408 113.555 147.891 115.495 150.894 119.374C153.897 123.252 155.586 128.487 155.962 135.076C156.128 137.495 156.233 139.81 156.274 142.021C156.316 144.231 156.295 146.337 156.212 148.339C156.128 150.341 156.003 152.218 155.836 153.97C155.252 159.976 153.98 164.835 152.02 168.546C150.102 172.217 147.203 174.907 143.324 176.617C139.487 178.285 134.399 179.119 128.059 179.119Z" fill="black"/>
+<g filter="url(#filter1_f_112_20051)">
+<path d="M54.6822 87.8174C46.6259 95.7643 46.0504 129.917 46.7697 146C42.2358 116.37 41.274 83.6569 59.7175 64.5191C77.813 45.7423 110.789 41.6971 141 47.3734C123.017 46.6638 96.4024 50.2116 86.332 57.307C76.2616 64.4024 64.7526 77.8838 54.6822 87.8174Z" fill="url(#paint2_radial_112_20051)"/>
+</g>
+<defs>
+<filter id="filter0_f_112_20051" x="1.31818" y="1.31818" width="253.364" height="253.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.84091" result="effect1_foregroundBlur_112_20051"/>
+</filter>
+<filter id="filter1_f_112_20051" x="38.3182" y="39.3182" width="108.364" height="112.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.84091" result="effect1_foregroundBlur_112_20051"/>
+</filter>
+<linearGradient id="paint0_linear_112_20051" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.655" stop-color="white" stop-opacity="0.05"/>
+</linearGradient>
+<radialGradient id="paint1_angular_112_20051" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(45) scale(141.588)">
+<stop stop-opacity="0.5"/>
+<stop offset="0.253046" stop-opacity="0.35"/>
+<stop offset="0.502899" stop-opacity="0.15"/>
+<stop offset="0.753407" stop-opacity="0.25"/>
+<stop offset="1" stop-opacity="0.5"/>
+</radialGradient>
+<radialGradient id="paint2_radial_112_20051" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(66.2988 67.2406) scale(67.6157 63.1855)">
+<stop offset="0.29" stop-color="white"/>
+<stop offset="0.415" stop-color="white" stop-opacity="0.5"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

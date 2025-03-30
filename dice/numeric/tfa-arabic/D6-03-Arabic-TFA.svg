@@ -1,0 +1,61 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><mask id="mask0_112_22899" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
+<path d="M28 52C28 38.7452 38.7452 28 52 28H128H204C217.255 28 228 38.7452 228 52V128V204C228 217.255 217.255 228 204 228H128H52C38.7452 228 28 217.255 28 204V128V52Z" fill="#7EBCD8"/>
+</mask>
+<g mask="url(#mask0_112_22899)">
+<rect width="256" height="256" fill="#FFE723"/>
+<g style="mix-blend-mode:plus-lighter">
+<rect x="28" y="28" width="200" height="200" fill="url(#paint0_linear_112_22899)"/>
+</g>
+<g filter="url(#filter0_f_112_22899)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M239 17H17V239H239V17ZM128 228.909C183.731 228.909 228.909 183.731 228.909 128C228.909 72.2694 183.731 27.0909 128 27.0909C72.2694 27.0909 27.0909 72.2694 27.0909 128C27.0909 183.731 72.2694 228.909 128 228.909Z" fill="url(#paint1_angular_112_22899)"/>
+</g>
+</g>
+<path d="M128.139 179.119C118.13 179.119 110.894 177.18 106.431 173.301C101.968 169.422 99.6117 162.979 99.3615 153.97C99.3197 152.468 99.278 151.321 99.2363 150.529C99.2363 149.736 99.2363 148.944 99.2363 148.152C99.278 147.359 99.3197 146.212 99.3615 144.711H118.505V156.472C118.505 158.85 119.298 160.685 120.882 161.978C122.467 163.229 124.719 163.854 127.639 163.854C130.642 163.854 132.894 163.229 134.396 161.978C135.939 160.685 136.731 158.891 136.773 156.597C136.856 153.845 136.898 151.405 136.898 149.278C136.94 147.151 136.898 145.128 136.773 143.209C136.648 140.957 135.918 138.955 134.583 137.203C133.29 135.452 130.725 134.618 126.888 134.701L114.251 134.826L113.75 119.061L133.144 94.2866H100.738V77.7705H155.041L154.79 93.7861L134.646 118.56C141.528 119.102 146.678 121.313 150.098 125.192C153.56 129.071 155.499 135.243 155.917 143.71C155.958 144.586 155.979 145.42 155.979 146.212C156.021 146.963 156.042 147.714 156.042 148.464C156.042 149.215 156.042 150.049 156.042 150.967C156.042 151.843 156 152.844 155.917 153.97C155.541 162.979 153.185 169.422 148.847 173.301C144.551 177.18 137.649 179.119 128.139 179.119Z" fill="black"/>
+<g filter="url(#filter1_f_112_22899)">
+<path d="M54.6822 87.8174C46.6259 95.7643 46.0504 129.917 46.7697 146C42.2358 116.37 41.274 83.6569 59.7175 64.5191C77.813 45.7423 110.789 41.6971 141 47.3734C123.017 46.6638 96.4024 50.2116 86.332 57.307C76.2616 64.4024 64.7526 77.8838 54.6822 87.8174Z" fill="url(#paint2_radial_112_22899)"/>
+</g>
+<defs>
+<filter id="filter0_f_112_22899" x="1.31818" y="1.31818" width="253.364" height="253.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.84091" result="effect1_foregroundBlur_112_22899"/>
+</filter>
+<filter id="filter1_f_112_22899" x="38.3182" y="39.3182" width="108.364" height="112.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.84091" result="effect1_foregroundBlur_112_22899"/>
+</filter>
+<linearGradient id="paint0_linear_112_22899" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.655" stop-color="white" stop-opacity="0.05"/>
+</linearGradient>
+<radialGradient id="paint1_angular_112_22899" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(45) scale(141.588)">
+<stop stop-opacity="0.5"/>
+<stop offset="0.253046" stop-opacity="0.35"/>
+<stop offset="0.502899" stop-opacity="0.15"/>
+<stop offset="0.753407" stop-opacity="0.25"/>
+<stop offset="1" stop-opacity="0.5"/>
+</radialGradient>
+<radialGradient id="paint2_radial_112_22899" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(66.2988 67.2406) scale(67.6157 63.1855)">
+<stop offset="0.29" stop-color="white"/>
+<stop offset="0.415" stop-color="white" stop-opacity="0.5"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

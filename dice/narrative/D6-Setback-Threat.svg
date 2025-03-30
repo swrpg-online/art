@@ -1,0 +1,71 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description>
+      <dc:title>swrpg-online.com art asset</dc:title>
+      <dc:creator>Joshua Ziggas</dc:creator>
+      <dc:rights>CC BY-NC-SA 4.0 - https://github.com/swrpg-online/art</dc:rights>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+<desc>
+  wrpg-online.com SWRPG Dice Asset
+  Created by: Joshua Ziggas
+  Source: https://github.com/swrpg-online/art
+  License: CC BY-NC-SA 4.0
+</desc><g id="D6-Setback-Threat">
+<g id="Group 5">
+<mask id="mask0_5_2428" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
+<path id="BG" d="M28 52C28 38.7452 38.7452 28 52 28H128H204C217.255 28 228 38.7452 228 52V128V204C228 217.255 217.255 228 204 228H128H52C38.7452 228 28 217.255 28 204V128V52Z" fill="#7EBCD8"/>
+</mask>
+<g mask="url(#mask0_5_2428)">
+<g id="Dice Color">
+<g id="Color Component">
+<rect width="256" height="256" fill="#272727"/>
+</g>
+</g>
+<g id="Shine" style="mix-blend-mode:plus-lighter">
+<rect x="28" y="28" width="200" height="200" fill="url(#paint0_linear_5_2428)"/>
+</g>
+<g id="Subtract" filter="url(#filter0_f_5_2428)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M239 17H17V239H239V17ZM128 228.909C183.731 228.909 228.909 183.731 228.909 128C228.909 72.2694 183.731 27.0909 128 27.0909C72.2694 27.0909 27.0909 72.2694 27.0909 128C27.0909 183.731 72.2694 228.909 128 228.909Z" fill="url(#paint1_angular_5_2428)"/>
+</g>
+</g>
+<g id="Symbol A">
+<path id="Symbol" fill-rule="evenodd" clip-rule="evenodd" d="M147.868 102.216C147.688 102.529 147.69 102.914 147.873 103.225L159.599 123.069C159.779 123.373 160.106 123.56 160.46 123.56H173.443C174.212 123.56 174.693 122.727 174.309 122.06L156.226 90.74C155.841 90.0734 154.879 90.0734 154.494 90.74L147.868 102.216ZM146.596 86.1801C146.981 85.5134 146.5 84.6801 145.73 84.6801L109.565 84.6801C108.795 84.6801 108.314 85.5134 108.699 86.1801L115.511 97.9799C115.69 98.2893 116.02 98.4799 116.377 98.4799L138.917 98.4799C139.274 98.4799 139.605 98.2893 139.783 97.9799L146.596 86.1801ZM99.0686 90.74C99.4535 90.0734 100.416 90.0734 100.801 90.74L107.426 102.216C107.607 102.529 107.605 102.914 107.421 103.225L95.6955 123.069C95.5156 123.373 95.1883 123.56 94.8346 123.56H81.8521C81.0823 123.56 80.6012 122.727 80.9861 122.06L99.0686 90.74ZM81.8521 132.68C81.0823 132.68 80.6012 133.513 80.9861 134.18L99.0686 165.5C99.4535 166.166 100.416 166.166 100.801 165.5L107.426 154.023C107.607 153.711 107.605 153.325 107.421 153.015L95.6955 133.171C95.5156 132.867 95.1882 132.68 94.8346 132.68H81.8521ZM108.699 170.06C108.314 170.726 108.795 171.56 109.565 171.56H145.73C146.5 171.56 146.981 170.726 146.596 170.06L139.783 158.26C139.605 157.95 139.274 157.76 138.917 157.76H116.377C116.02 157.76 115.69 157.95 115.511 158.26L108.699 170.06ZM154.494 165.5C154.879 166.166 155.841 166.166 156.226 165.5L174.309 134.18C174.693 133.513 174.212 132.68 173.443 132.68H160.46C160.106 132.68 159.779 132.867 159.599 133.171L147.873 153.015C147.69 153.325 147.688 153.711 147.868 154.023L154.494 165.5ZM103.605 128.629C103.419 128.315 103.419 127.925 103.605 127.611L115.139 108.091C115.319 107.787 115.646 107.6 116 107.6L139.295 107.6C139.648 107.6 139.976 107.787 140.156 108.091L151.69 127.611C151.876 127.925 151.876 128.315 151.69 128.629L140.156 148.149C139.976 148.453 139.648 148.64 139.295 148.64H116C115.646 148.64 115.319 148.453 115.139 148.149L103.605 128.629ZM141.019 127.605C141.209 127.922 141.209 128.318 141.019 128.634L134.779 139.034C134.598 139.336 134.272 139.52 133.921 139.52H121.374C121.022 139.52 120.697 139.336 120.516 139.034L114.276 128.634C114.086 128.318 114.086 127.922 114.276 127.605L120.516 117.205C120.697 116.904 121.022 116.72 121.374 116.72H133.921C134.272 116.72 134.598 116.904 134.779 117.205L141.019 127.605Z" fill="white"/>
+</g>
+<g id="Shine_2" filter="url(#filter1_f_5_2428)">
+<path d="M54.6822 87.8174C46.6259 95.7643 46.0504 129.917 46.7697 146C42.2358 116.37 41.274 83.6569 59.7175 64.5191C77.813 45.7423 110.789 41.6971 141 47.3734C123.017 46.6638 96.4024 50.2116 86.332 57.307C76.2616 64.4024 64.7526 77.8838 54.6822 87.8174Z" fill="url(#paint2_radial_5_2428)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5_2428" x="1.31818" y="1.31818" width="253.364" height="253.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7.84091" result="effect1_foregroundBlur_5_2428"/>
+</filter>
+<filter id="filter1_f_5_2428" x="38.3182" y="39.3182" width="108.364" height="112.364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.84091" result="effect1_foregroundBlur_5_2428"/>
+</filter>
+<linearGradient id="paint0_linear_5_2428" x1="28" y1="28" x2="228" y2="228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.655" stop-color="white" stop-opacity="0.05"/>
+</linearGradient>
+<radialGradient id="paint1_angular_5_2428" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 128) rotate(45) scale(141.588)">
+<stop stop-opacity="0.5"/>
+<stop offset="0.253046" stop-opacity="0.35"/>
+<stop offset="0.502899" stop-opacity="0.15"/>
+<stop offset="0.753407" stop-opacity="0.25"/>
+<stop offset="1" stop-opacity="0.5"/>
+</radialGradient>
+<radialGradient id="paint2_radial_5_2428" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(66.2988 67.2406) scale(67.6157 63.1855)">
+<stop offset="0.29" stop-color="white"/>
+<stop offset="0.415" stop-color="white" stop-opacity="0.5"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
