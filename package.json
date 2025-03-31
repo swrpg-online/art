@@ -1,14 +1,24 @@
 {
   "name": "@swrpg-online/art",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "SVG assets for the Star Wars Roleplaying Game (SWRPG) narrative and numeric dice by Fantasy Flight Games and Edge Studio.",
   "files": [
-    "dice/**/*.svg"
+    "dice/**/*.svg",
+    "dice/**/*.png"
   ],
   "exports": {
-    "./dice/*": "./dice/*",
-    "./dice/numeric/*": "./dice/numeric/*",
-    "./dice/narrative/*": "./dice/narrative/*"
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    },
+    "./dice/*": {
+      "types": "./index.d.ts",
+      "import": "./dice/*"
+    }
+  },
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "typescript": ">=4.0.0"
   },
   "keywords": [
     "swrpg",

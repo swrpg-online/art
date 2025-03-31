@@ -29,28 +29,98 @@ npm install @swrpg-online/art
 
 ## Usage
 
-### Direct SVG Imports
+### React Components (Recommended)
 
-You can import SVG files directly from the package:
+```tsx
+import { ProficiencyDice } from '@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg';
 
-```javascript
-// Import a specific SVG file
-import '@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg';
+function DiceComponent() {
+  return (
+    <div>
+      <ProficiencyDice className="w-12 h-12" />
+    </div>
+  );
+}
+```
 
-// Use in an HTML img tag
-<img src="node_modules/@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg" alt="Proficiency Success">
+To make this work, add the following to your `vite.config.ts`:
 
-// Fetch SVG content
-fetch('node_modules/@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg')
-  .then(response => response.text())
-  .then(svgContent => {
-    // Use the SVG content
-  });
+```typescript
+import { defineConfig } from 'vite';
+import svgr from 'vite-plugin-svgr';
+
+export default defineConfig({
+  plugins: [svgr()],
+});
+```
+
+### Angular Components
+
+```typescript
+import { Component } from '@angular/core';
+import { DomSanitizer } from '@angular/platform-browser';
+import type { SafeUrl } from '@angular/platform-browser';
+
+@Component({
+  selector: 'app-dice',
+  template: `
+    <img [src]="proficiencyDice" alt="Proficiency Success" class="w-12 h-12">
+  `
+})
+export class DiceComponent {
+  proficiencyDice: SafeUrl;
+
+  constructor(private sanitizer: DomSanitizer) {
+    // Import the SVG content directly
+    const svgContent = require('@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg');
+    this.proficiencyDice = this.sanitizer.bypassSecurityTrustUrl(svgContent);
+  }
+}
+```
+
+To make this work, add the following to your `angular.json`:
+
+```json
+{
+  "projects": {
+    "your-project": {
+      "architect": {
+        "build": {
+          "options": {
+            "assets": [
+              {
+                "glob": "**/*",
+                "input": "node_modules/@swrpg-online/art/dice",
+                "output": "/assets/dice"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+### TypeScript Support
+
+The package includes framework-agnostic TypeScript support:
+
+```typescript
+// React usage
+import type { SVGProps } from 'react';
+import { ProficiencyDice } from '@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg';
+const Dice: React.FC<SVGProps<SVGSVGElement>> = ProficiencyDice;
+
+// Angular usage
+import type { SafeUrl } from '@angular/platform-browser';
+const svgContent: string = require('@swrpg-online/art/dice/narrative/D12-Proficiency-Success.svg');
+const safeUrl: SafeUrl = sanitizer.bypassSecurityTrustUrl(svgContent);
 ```
 
 ## Directory Structure
 
-- `dice/` - Contains dice-related SVG assets
+- `dice/` - Contains dice-related SVG and PNG assets
   - `narrative/` - Narrative dice SVGs (Proficiency, Challenge, etc.)
   - `numeric/` - Numeric dice SVGs (Aurebesh and Arabic styles)
     - `aotc/` - Attack of the Clones style
