@@ -96,3 +96,7 @@ While this is primarily an asset repository, suggestions and improvements are we
 ## Support
 
 For questions about licensing or usage, please refer to the [CONTACT.md](CONTACT.md) file.
+
+## Shoutout
+
+[Lauren Herda for designing beautiful dice with us!](https://www.herda.me/)
