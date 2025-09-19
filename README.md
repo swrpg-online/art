@@ -10,6 +10,12 @@ This repository contains a collection of SVG and other art assets for use in Sta
 
 ![Narrative Dice](dice/narrative-dice-page.png)
 
+### Animated GIF files
+
+Useful for simulating rolling the dice
+
+![Animated gif files](dice/narrative/gifs/ability.gif)
+
 ### Numeric dice with every color from the movie logos
 
 ![Movie Colors](dice/movie-colors.png)
